@@ -1,0 +1,17 @@
+datasets:
+  blink_counting:
+    data_type: images
+
+    build_info:
+      annotations:
+        train:
+          url: []
+          storage: []
+        val:
+          url: []
+          storage: []
+        test:
+          url: []
+          storage: []
+      images:
+        storage: 'Counting'
